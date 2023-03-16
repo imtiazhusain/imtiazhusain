@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Imtiaz Hussain</h1>
 <h3 align="center">A passionate Software Engineer & Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **Node JS & Express JS**
+- 🔭 I’m currently working on MERN STACK
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Web3**
 
 - 👯 I’m looking to collaborate **with other Web Developers**
 
-- 🥅 2022 Goals: Learn more about **Web3**
+- 🥅 2023 Goals: Learn more about **Web3**
 
 - 🤝 I am very exited to contribute **more to open source projects**
 
