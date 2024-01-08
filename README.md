@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate **with other Web Developers**
 
-- 🥅 2023 Goals: Learn more about **Web3**
+- 🥅 2024 Goals: Learn more about **Web3**
 
 - 🤝 I am very exited to contribute **more to open source projects**
 
