@@ -1,4 +1,4 @@
-<img alt="banner image" align="center" width="900" src="https://drive.google.com/uc?export=view&id=1szAFmsTZlsXF5OuV9wRJFfddmE21zI9m" />
+<img alt="banner image" align="center" width="1100" src="https://drive.google.com/uc?export=view&id=1szAFmsTZlsXF5OuV9wRJFfddmE21zI9m" />
 <h1 align="center">Hi 👋, I'm Imtiaz Hussain</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
