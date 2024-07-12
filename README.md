@@ -4,7 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiazhusain&label=Profile%20views&color=0e75b6&style=flat" alt="imtiazhusain" /> </p>
 
-- 💬 Ask me about **Web3, React Native, Nest js and more...**
+- 🔭 I’m currently working on MERN STACK Projects
+
+- 🌱 I’m currently learning **Web3,React Native,Nest js and more...**
+
+- 👯 I’m looking to collaborate **with other Web Developers**
+
+- 🥅 2024 Goals: Learn more about **Web developement technologies**
+
+- 🤝 I am very exited to contribute **more to open source projects**
 
 - 📫 How to reach me **imtiazhussainsolangi111@gmail.com**
 
