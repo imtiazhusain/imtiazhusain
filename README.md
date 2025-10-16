@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **imtiazhussainsolangi111@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y1Be_P6zwEcwnJ2zRibb3bYe5QyV0RRt/view?usp=drive_link](https://drive.google.com/file/d/1Y1Be_P6zwEcwnJ2zRibb3bYe5QyV0RRt/view?usp=drive_link)
+- 📄 Know about my experiences [https://imtiazhussain.vercel.app/](https://imtiazhussain.vercel.app/)
 
 - ⚡ Fun fact **I love building web applications**
 
