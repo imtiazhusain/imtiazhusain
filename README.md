@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Imtiaz Hussain</h1>
 
 <h3 align="center">
-  Lead Full Stack Developer | MERN & PERN Stack | AI Agents | Cloud & DevOps
+  Senior Full Stack Developer | MERN & PERN Stack | AI Agents | Cloud & DevOps
 </h3>
 
 <p align="center">
@@ -17,9 +17,9 @@
   <a href="https://linkedin.com/in/imtiaz-hussain21" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Imtiaz%20Hussain-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://imtiazhussain.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" />
-  </a>
+  <a href="https://imtiazhussain.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" />
+</a>
   <a href="https://github.com/imtiazhusain" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-imtiazhusain-181717?style=for-the-badge&logo=github" />
   </a>
