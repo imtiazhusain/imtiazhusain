@@ -33,7 +33,7 @@
 
 ## 🚀 About Me
 
-I am a **Lead Full Stack Developer** with **4+ years of experience** building scalable, production-ready web and mobile applications using the **MERN and PERN stacks**.
+I am a **Lead Full Stack Developer** with **5+ years of experience** building scalable, production-ready web and mobile applications using the **MERN and PERN stacks**.
 
 I specialize in building complete products from idea to deployment, including frontend interfaces, backend APIs, database design, cloud deployment, microservices, real-time systems, payments, blockchain integrations, and AI-powered applications.
 
